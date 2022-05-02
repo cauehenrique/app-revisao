@@ -1,0 +1,5 @@
+<resources>
+    <string name="text">Type both values:</string>
+    <string name="roll_label">Run</string>
+    <string name="app_name">AppRevisao</string>
+</resources>
